@@ -1,7 +1,7 @@
 # mlr
 This repository contains predictive models built using the mlr package in R.
 
-This example is based of this [hackathon](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/).
+This example is based of this [hackathon](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/). To download the datasets sign up for the competition. 
 
 Algorithms used in this repository: 
 
